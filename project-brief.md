@@ -1,14 +1,14 @@
-\#My project brief
+\My project brief
 
 
 
-\##The question
+\The question
 
 Which settlements in Ado-Ekiti are located on low-lying land near watercourses?
 
 
 
-\##The data I need
+\The data I need
 
 Nigeria Settlement extents - GRID3 — [Settlement extents](https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-extents-v4-1/about) (Ctrl + Click to open the link)
 
