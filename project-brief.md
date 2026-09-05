@@ -16,7 +16,7 @@ Ward/LGA boundaries - GRID3 - [LGA\_Boundaries](https://stg-arcgisazurecdataprod
 
 Watercourses (rivers/streams) - [Watercourses](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/Ado_Ekiti_Ekiti_shp_uid_e7303b6f-8d46-4ae4-a518-b8322f8ad8d6.zip), via HOT export tool from OpenStreetMap, filtered to Ado-Ekiti
 
-Elevation — Copernicus GLO-30 DEM  - [DEM](https://ot-data3.sdsc.edu/appRasterSelectService1788521792358832779767/rasters_COP30.tar.gz) - GeoTIFF, 30 m resolution
+Elevation - Copernicus GLO-30 DEM  - [DEM](https://ot-data3.sdsc.edu/appRasterSelectService1788521792358832779767/rasters_COP30.tar.gz) - GeoTIFF, 30 m resolution
 
 Significance of the project
 
