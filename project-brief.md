@@ -18,6 +18,7 @@ Watercourses (rivers/streams) - [Watercourses](https://s3.dualstack.us-east-1.am
 
 Elevation - Copernicus GLO-30 DEM  - [DEM](https://ot-data3.sdsc.edu/appRasterSelectService1788521792358832779767/rasters_COP30.tar.gz) - GeoTIFF, 30 m resolution
 
-Significance of the project
+What I would build
 
-This offers practical value: it could support local planning decisions around drainage and development in low-lying areas, give emergency responders a starting point for prioritizing at-risk communities, and raise awareness among residents about which areas warrant caution. It also produces a reproducible, publicly documented workflow, in line with the program's emphasis on building in the open, which could be adapted by others facing the same data gaps in different Nigerian LGAs.
+
+A system with two parts working together. First, a base flood-vulnerability layer, built once from the static data: every settlement in Ado-Ekiti LGA flagged as within 200 metres of a watercourse and sitting in low-lying land. Second, a live layer that checks rainfall on a schedule (for example, hourly) and raises the flagged risk level for those same settlements when rainfall crosses a chosen threshold, then lowers it again once conditions ease. The output would be a dashboard or simple map a local planner, emergency responder, or resident could check at any time to see which settlements are at elevated risk right now, not just which ones were flagged in a one-time study. 
