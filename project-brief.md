@@ -6,6 +6,10 @@ The question
 
 Which settlements in Ado-Ekiti are located on low-lying land near watercourses?
 
+Why it matters
+
+
+Ado-Ekiti has no accessible, up-to-date map showing which settlements are most exposed to flooding, despite flooding being a recurring hazard in the town. A static map goes stale the moment conditions change. Local planners, emergency responders, and residents could use a live view of current risk to prioritize drainage improvements, target flood preparedness efforts, and know which areas warrant caution right now, not just historically.
 
 
 The data I need
